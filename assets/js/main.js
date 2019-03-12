@@ -1,8 +1,3 @@
-// Lazy Loading //
-$(function() {
-    $('.lazy').lazy();
-});
-
 // Loading //
 document.onreadystatechange = function () {
     var state = document.readyState
